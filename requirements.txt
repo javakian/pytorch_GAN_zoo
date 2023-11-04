@@ -4,3 +4,4 @@ visdom
 h5py
 nevergrad
 numpy
+pillow>=10.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
